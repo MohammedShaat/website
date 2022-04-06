@@ -1,7 +1,3 @@
 # my-website
 
-Updating on update-readme branch
-
-Updating on update-readme locally
-
-Change on remote
+New Line On develop remotely
