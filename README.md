@@ -1,7 +1,3 @@
 # my-website
 
-Updating on update-readme branch
-
-Updating on update-readme locally
-
-Change on remote
+Here is a line to causing a conflict, locally
